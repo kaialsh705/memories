@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family:'loto' sans-serif;
+}
+.head{
+    /* position: fixed; */
+    width: 80%;
+    background-color:#fff;
+    margin-top: 10px;
+    box-shadow: 0 5px 5px rgb(202, 176, 128);
+    display: flex;
+    justify-content: center;
+}
+.title{
+    font-size: bold;
+    padding: 10px;
+}
+.img{
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}

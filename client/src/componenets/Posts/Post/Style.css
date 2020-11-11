@@ -1,0 +1,23 @@
+.post{
+    display: flex;
+    flex-direction: column;
+    flex:0.65;
+    margin-top:50px;
+}
+.card1{
+    border-radius: 5%;
+    background-color: #e6ffee;
+}
+.top-image{
+    display: flex;
+}
+.top-image .dot{
+    margin-left: 140px;
+    font-size: 20px;
+}
+.top-image .dot:hover{
+    cursor: pointer;
+}
+.icon:hover{
+    cursor: pointer;
+}
